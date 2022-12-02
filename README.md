@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 |  Machine Learning             | A brief description of machine learning             | https://github.com/Tetteh96/machine-learning      |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
