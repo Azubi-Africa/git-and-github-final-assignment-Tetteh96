@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  Machine Learning             |  A brief description of machine learning             | https://github.com/Tetteh96/machine-learning       |
+| 1 |  NYC-violations             | This is a description on how to perform exploratory data analysis (EDA) using NYC violations dataset            | https://github.com/Tetteh96/NYC-violations       |
 | 2 |  Git and Github basics             |  A basic repository to start practicing Git & Github.             | https://github.com/Azubi-Africa/github-first-practice-Tetteh96       |
 | 3 |  The Basics of Git and GitHub             |  A brief introduction to GitHub             | https://github.com/Azubi-Africa/git-github-fundamentals-Tetteh96       |
 
